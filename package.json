@@ -29,7 +29,7 @@
     "express-fileupload": "^1.4.0",
     "line-reader": "^0.4.0",
     "lodash": "^4.17.21",
-    "mssql": "^9.1.1",
+    "mssql": "^10.0.0",
     "pg": "^8.7.3",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
